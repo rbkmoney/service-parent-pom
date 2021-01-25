@@ -9,9 +9,9 @@
   <packaging>pom</packaging>
   <groupId>com.rbkmoney</groupId>
   <artifactId>service-parent-pom</artifactId>
-  <version>2.3.8</version>
-  <description>RBKmoney spring boot starter parent</description>
-  <name>RBKmoney spring boot starter parent</name>
+  <version>1.0.0</version>
+  <description>RBKmoney spring starter parent</description>
+  <name>RBKmoney spring starter parent</name>
   <url>https://github.com/rbkmoney/service-parent-pom</url>
 
   <licenses>
