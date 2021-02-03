@@ -46,7 +46,7 @@
     <pubStagingRepo>https://oss.sonatype.org/</pubStagingRepo>
     <checkstyle.config.path>https://raw.githubusercontent.com/rbkmoney/java-checkstyle-config/master/conf/rbkmoney_google_checkstyle.xml</checkstyle.config.path>
     <shared-resources.version>0.3.8</shared-resources.version>
-    <dockerfile.base.service.tag>c0612d6052ac049496b72a23a04acb142035f249</dockerfile.base.service.tag>
+    <dockerfile.base.service.tag>57e26d8ee999d7b0b50248c22afc63e6f926d276</dockerfile.base.service.tag>
   </properties>
 
   <dependencyManagement>
