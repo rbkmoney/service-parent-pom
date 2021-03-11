@@ -274,7 +274,7 @@
                   <consoleOutput>true</consoleOutput>
                   <violationSeverity>warning</violationSeverity>
                   <includeTestSourceDirectory>true</includeTestSourceDirectory>
-                    <suppressionsLocation>${checkstyle.config.suppressions.path}</suppressionsLocation>
+                  <suppressionsLocation>${checkstyle.config.suppressions.path}</suppressionsLocation>
                 </configuration>
                 <goals>
                   <goal>check</goal>
