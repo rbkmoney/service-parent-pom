@@ -9,7 +9,7 @@
   <packaging>pom</packaging>
   <groupId>com.rbkmoney</groupId>
   <artifactId>service-parent-pom</artifactId>
-  <version>1.2.4</version>
+  <version>1.2.5</version>
   <description>RBKmoney spring starter parent</description>
   <name>RBKmoney spring starter parent</name>
   <url>https://github.com/rbkmoney/service-parent-pom</url>
@@ -62,6 +62,14 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
+  <!--JUnit Vintage Engine to depend on the JUnit4 engine and JUnit 4 API  -->
+  <dependencies>
+    <dependency>
+      <groupId>org.junit.vintage</groupId>
+      <artifactId>junit-vintage-engine</artifactId>
+      <version>${junit-jupiter.version}</version>
+    </dependency>
+  </dependencies>
 
   <profiles>
     <profile>
